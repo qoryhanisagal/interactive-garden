@@ -11,17 +11,20 @@
 **Sketch File:** interactive_garden/sketch.js
 
 [**ps5 Editor File Link**](https://editor.p5js.org/qoryhanisagal/sketches/Y8uJ5qZy1)
-[**Notion Prework:**] (https://www.notion.so/Prework-22867763e10b806dbe15f91ae3b053c9)
+
+[**Notion Prework**](https://www.notion.so/Prework-22867763e10b806dbe15f91ae3b053c9)
+
+[**Prework Github Link**](https://github.com/qoryhanisagal/ctd-prework)
 
 [**Notion Interactive Garden Project Planning**](https://www.notion.so/Interactive-Garden-Prework-Project-Overview-22967763e10b8098b541cd93ef028c65)
 
-[**Prework Github Link:**]{https://github.com/qoryhanisagal/interactive-garden}
+[**Interactive Garden Github Link**](https://github.com/qoryhanisagal/interactive-garden)
 
 ---
 
 ### **🔹 Project Concept**
 
-The goal was to build an _Interactive Garden_ where users can:
+The goal was to build an Interactive Garden where users can:
 
 - Click to plant flowers
 - Toggle between day ☀️ and night 🌙 by clicking the sun/moon
