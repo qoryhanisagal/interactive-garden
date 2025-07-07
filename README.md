@@ -8,7 +8,7 @@
 
 **Project Type:** Prework Submission – Intro to Programming
 
-**Sketch File:** interactive_garden/sketch.js
+**Sketch File:** interactive-garden/sketch.js
 
 [**ps5 Editor File Link**](https://editor.p5js.org/qoryhanisagal/sketches/Y8uJ5qZy1)
 
